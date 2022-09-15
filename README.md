@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ravan096
-- 👀 I’m interested in @Full stack ddeveloper and @Cyber security
+- 👀 I’m interested in @Full stack developer and @Cyber security
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...by mail "guptalakshman96.lg@gmail.com"
 
 <!---
 Ravan096/Ravan096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

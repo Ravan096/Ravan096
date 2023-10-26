@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **.NET**
 
-- 👨‍💻 All of my projects are available at [https://lakshmanportfolio96.netlify.app/](https://lakshmanportfolio96.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://lakshmanportfolio96.netlify.app/](https://lakshmanportfolio96.netlify.app/) and https://lakshmanportfolio2023.netlify.app/
 
 - 📝 I regularly write articles on [comming soon](comming soon)
 
